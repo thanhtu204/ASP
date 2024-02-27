@@ -9,7 +9,7 @@
 <body>
     <form id="form1" runat="server">
         <div class="text-center">
-           <h1 class="text-lowercase" >Bài Tập Đơn Gĩan</h1>
+           <h1 class="text-lowercase" >sssssssssss</h1>
              <div class="" style="margin-top: 117px">
                        Nhập Số 1:<asp:TextBox ID="txt1" runat="server" style="width: 128px"></asp:TextBox>  
                  </br>
