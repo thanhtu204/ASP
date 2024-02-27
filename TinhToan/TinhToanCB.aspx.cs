@@ -67,7 +67,7 @@ namespace TinhToan
             }
             if (txt2.Text == "")
             {
-                lblhien.Text = "bạn chưa nhập số 2";
+                lblhien.Text = "bạn chưa nhập số 3";
                 return;
             }
             double mot = double.Parse(txt1.Text);
